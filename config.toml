@@ -1,3 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://mikeripberger.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Mike Ripberger Test"
+theme = "hugo-theme-cleanwhite"
+paginate = 5 #frontpage pagination
+header_image = "img/home-bg-jeep.jpg"
+SEOTitle = "Mike Ripberger dot com"
+description = "Mike Ripberger's Personal Website"
+keyword = "Mike Ripberger"
+slogan = "Getting there the hard way."
