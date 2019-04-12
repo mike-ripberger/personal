@@ -6,6 +6,7 @@ date:       2017-11-04
 author:     "赵化冰"
 URL: "/2017/11/03/hello-world/"
 image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
+IsPage: true
 ---
 
 > “Yeah It's on. ”
